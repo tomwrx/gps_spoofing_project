@@ -1,0 +1,6 @@
+__pycache__/
+*.ipynb_checkpoints
+/data
+/logs
+anommaly_report.pbix
+spoofing_eda.ipynb
